@@ -1,5 +1,5 @@
 # Veterinary-System
-Object Oriented Programming Projected JAVA
+Object Oriented Programming Project JAVA
 The Veterinary System is a Java-based programme used in vet systems to handle bookings, staff, and pet patients. It has features to add, remove, search, and show data on employees, dogs, and appointments at various practices.
 
 There is a U/I driven menu that leads to the staff, pet, booking, surgeries menus.
